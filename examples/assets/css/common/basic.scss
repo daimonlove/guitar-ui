@@ -1,0 +1,21 @@
+body{
+  font-family: "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  color: #495060;
+}
+a{
+  color:#34495e;
+  text-decoration: none;
+  &:hover{
+    color: #42b983;
+  }
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: normal;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
